@@ -1,0 +1,6 @@
+node_modules/
+output/
+src/template/assets/
+src/template/template-local.docx
+src/template/temp-template.docx
+.env
